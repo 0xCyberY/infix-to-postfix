@@ -1,0 +1,12 @@
+Valid Infix Expression: a*b(x+y)
+
+ Given Infix Expression : a*b(x+y)
+ Corresponding Postfix Expression : abxy+*
+ 
+ _________________________________________
+ 
+ Valid Infix Expression: a+b/c*d
+
+ Given Infix Expression : a+b/c*d
+ Corresponding Postfix Expression : abc/d*+
+ 
